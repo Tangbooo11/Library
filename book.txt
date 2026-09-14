@@ -1,0 +1,13 @@
+类名：Book
+属性（成员变量）：
+- 图书编号id
+- 书名name
+- 作者author
+- 借阅状态status（0：在馆，1：已借出）
+
+行为（成员函数）：
+- 构造函数：初始化图书信息
+- 获取图书信息getInfo()
+- 修改借阅状态setBorrowStatus()
+- 获取借阅状态getBorrowStatus()
+- 打印图书信息show()
